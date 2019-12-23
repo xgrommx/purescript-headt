@@ -1,0 +1,18 @@
+{
+  "name": "purescript-headt",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^4.1.1",
+    "purescript-hvariant": "xgrommx/purescript-hvariant",
+    "purescript-profunctor-lenses": "^6.2.0",
+    "purescript-leibniz": "^5.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^4.0.0"
+  }
+}
